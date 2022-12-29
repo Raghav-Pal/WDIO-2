@@ -12,7 +12,7 @@ describe('Demo Test Suite', async () => {
 
         //verify the page title
 
-        await expect(browser).toHaveTitleContaining("Contact Us to Developed")
+        // await expect(browser).toHaveTitleContaining("Contact Us to Developed")
 
         //print the title on console
 
