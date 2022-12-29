@@ -1,0 +1,7 @@
+Ref - https://devstringx-technologies.medium.com/automation-testing-using-webdriverio-with-javascript-a6ad10c9729e
+
+1. Create folder and open in vs code
+
+2 Open terminal and run commands
+
+	npm init wdio
